@@ -1,6 +1,8 @@
 RENCANA BELAJAR
 
 -cc unit
+  *1
+  *2 
 -bootsrap
 -css grid
 -sass
